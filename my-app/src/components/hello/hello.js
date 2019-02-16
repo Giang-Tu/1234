@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Hello from '/page/hello.js';
+import './hello.css';
 class Hello extends Component {
   render() {
     return (
